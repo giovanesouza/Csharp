@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recode_MVC_Dot_Net", "Recode_MVC_Dot_Net\Recode_MVC_Dot_Net.csproj", "{89F03673-C5B2-47BA-BE89-39D6542B4397}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89F03673-C5B2-47BA-BE89-39D6542B4397}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89F03673-C5B2-47BA-BE89-39D6542B4397}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89F03673-C5B2-47BA-BE89-39D6542B4397}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89F03673-C5B2-47BA-BE89-39D6542B4397}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44EA21AD-2057-411E-9E58-01C56CB81114}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,33 @@
+﻿<h1>VIEW RECODE</h1>
+
+<!-- Código C# dentro da View -->
+
+@{
+    string nome = "Giovane Souza";
+    string telefone = "(81) 91234-5678";
+    string endereco = "Rua Web Developer";
+    int numero = 100;
+
+}
+
+<!-- Renderização na view -  ArrobanomeVariável. -->
+<p>@nome</p>
+<p>@endereco</p>
+
+
+<!-- USANDO CONDICIONAL -->
+@if (nome == "Giovane") {
+
+    <p>Nome igual</p>
+
+} else {
+
+    <p>Nome diferente</p>
+
+}
+
+@for(int i = 0; i <= 10; i++) {
+
+<span>@i </span>
+
+}
